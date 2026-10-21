@@ -1,2 +1,0 @@
-Open a VS 2022 x64 Developer Command Prompt and run Build.cmd.
-After it succeeds, close Softimage and run Install.cmd normally.
