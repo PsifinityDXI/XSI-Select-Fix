@@ -6,7 +6,7 @@ selection pass with occlusion queries and synthesizes the hit records expected b
 transform gizmos.
 
 ## Transparency Disclaimer!
-The results of this fix came from a lengthy debugging session spearheaded via AI, specifically one involving disassembly to find the root of the problem. as not only was discussion about the problem on Google rather scarce, but what was determined to be the problem is also simply well beyond my own capabilities.
+The results of this fix came from a lengthy debugging session spearheaded via AI, specifically one involving disassembly to find the root of the problem. Not only was discussion about the problem on Google rather scarce, but what was determined to be the problem is also simply well beyond my own capabilities.
 
 To stress again: **<u>this is purely about debugging and fixing a rare-yet-known bug with Softimage's selection interaction with newer Intel drivers.</u>**
 
